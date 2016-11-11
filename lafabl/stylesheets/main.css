@@ -1,0 +1,18 @@
+#app {
+  width: 100vw;
+  height: 100vh;
+}
+
+#drag-box {
+  width: 100vw;
+  height: 100vh;
+}
+
+.team-container {
+  display: inline-block;
+  margin: 10px;
+}
+
+.player {
+  margin: 10px;
+}

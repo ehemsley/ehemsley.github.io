@@ -8,6 +8,10 @@
   height: 100vh;
 }
 
+.header {
+  text-align: center;
+}
+
 .team-container {
   display: inline-block;
   margin: 10px;
